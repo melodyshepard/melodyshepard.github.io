@@ -6,6 +6,13 @@ a {
 color: #9370DB;
 text-decoration: none;
 }
+
+/* mouse over link */
+      a:hover {
+          color: #BA55D3;
+        }
+
+
   margin: 30px auto;
   max-width: 1000px;
   font-family: "Roboto", "Arial", sans-serif;
